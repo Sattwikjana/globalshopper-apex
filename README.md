@@ -38,3 +38,4 @@ integrity:
 - Upload key certificate (bottom one)
 
 Keep both unless you're certain about which one Play uses.
+
